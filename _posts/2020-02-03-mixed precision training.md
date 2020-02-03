@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ## Mixed precision training
+title: ## Mixed Precision Training
 date: 2020-02-03
 ---
 
