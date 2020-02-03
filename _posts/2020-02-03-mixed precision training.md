@@ -30,5 +30,6 @@ Changes needed in the training loop(Pytorch):
 References:
 -----------
 1. [Tensor Cores](https://devblogs.nvidia.com/video-mixed-precision-techniques-tensor-cores-deep-learning)
-2. [NVIDIA GTC talk](http://on-demand.gputechconf.com/gtc-taiwan/2018/pdf/5-1_Internal%20Speaker_Michael%20Carilli_PDF%20For%20Sharing.pdf)
-3. [Fast ai forum thread](https://forums.fast.ai/t/mixed-precision-training/20720)
+2. [NVIDIA Docs](https://docs.nvidia.com/deeplearning/sdk/mixed-precision-training/index.html)
+3. [NVIDIA GTC talk](http://on-demand.gputechconf.com/gtc-taiwan/2018/pdf/5-1_Internal%20Speaker_Michael%20Carilli_PDF%20For%20Sharing.pdf)
+4. [Fast ai forum thread](https://forums.fast.ai/t/mixed-precision-training/20720)
