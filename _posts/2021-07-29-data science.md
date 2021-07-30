@@ -11,7 +11,7 @@ Machine Learning
  - Hyperparameter optimization frameworks like Optuna, FLAML, Ax
  
 NLP
-- different tasks like NER, POS, language translation.
+- different tasks like Text classification, Zero-shot classification, Text generation, Text completion(mask filling), Token classification, Question Answering, Summarization, Translation.
 - hugging face
 
 Computer Vision
