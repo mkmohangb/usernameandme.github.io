@@ -19,3 +19,5 @@ Computer Vision
 - what are the recent advancements
 
 Recommender Systems
+
+ML Interviews book (https://huyenchip.com/ml-interviews-book/)
