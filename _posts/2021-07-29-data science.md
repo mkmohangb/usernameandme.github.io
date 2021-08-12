@@ -21,3 +21,5 @@ Computer Vision
 Recommender Systems
 
 ML Interviews book (https://huyenchip.com/ml-interviews-book/)
+
+Transformers course (https://huggingface.co/course/chapter1)
